@@ -1,0 +1,43 @@
+D:\Giao diện 1\Test2\Test2\bin\Debug\Test2.exe.config
+D:\Giao diện 1\Test2\Test2\bin\Debug\Test2.exe
+D:\Giao diện 1\Test2\Test2\bin\Debug\Test2.pdb
+D:\Giao diện 1\Test2\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+D:\Giao diện 1\Test2\Test2\obj\Debug\Test2.Form1.resources
+D:\Giao diện 1\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+D:\Giao diện 1\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
+D:\Giao diện 1\Test2\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+D:\Giao diện 1\Test2\Test2\obj\Debug\Test2.exe
+D:\Giao diện 1\Test2\Test2\obj\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\BTL\Test2\Test2\bin\Debug\Test2.exe.config
+F:\Download\du lieu\LTGD\BTL\Test2\Test2\bin\Debug\Test2.exe
+F:\Download\du lieu\LTGD\BTL\Test2\Test2\bin\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\BTL\Test2\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+F:\Download\du lieu\LTGD\BTL\Test2\Test2\obj\Debug\Test2.Form1.resources
+F:\Download\du lieu\LTGD\BTL\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+F:\Download\du lieu\LTGD\BTL\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
+F:\Download\du lieu\LTGD\BTL\Test2\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+F:\Download\du lieu\LTGD\BTL\Test2\Test2\obj\Debug\Test2.exe
+F:\Download\du lieu\LTGD\BTL\Test2\Test2\obj\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\kt\Test2\Test2\bin\Debug\Test2.exe.config
+F:\Download\du lieu\LTGD\kt\Test2\Test2\bin\Debug\Test2.exe
+F:\Download\du lieu\LTGD\kt\Test2\Test2\bin\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\kt\Test2\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+F:\Download\du lieu\LTGD\kt\Test2\Test2\obj\Debug\Test2.Form1.resources
+F:\Download\du lieu\LTGD\kt\Test2\Test2\obj\Debug\Test2.Form2.resources
+F:\Download\du lieu\LTGD\kt\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+F:\Download\du lieu\LTGD\kt\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
+F:\Download\du lieu\LTGD\kt\Test2\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+F:\Download\du lieu\LTGD\kt\Test2\Test2\obj\Debug\Test2.exe
+F:\Download\du lieu\LTGD\kt\Test2\Test2\obj\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\kt\Test2\Test2\obj\Debug\Test2.Form3.resources
+Z:\Desktop\Test2\Test2\bin\Debug\Test2.exe.config
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.exe
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.pdb
+Z:\Desktop\Test2\Test2\bin\Debug\Test2.exe
+Z:\Desktop\Test2\Test2\bin\Debug\Test2.pdb
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.Form1.resources
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.Form2.resources
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.Form3.resources
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.Cache

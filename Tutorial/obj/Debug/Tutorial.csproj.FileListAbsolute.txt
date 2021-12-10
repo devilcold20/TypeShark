@@ -1,0 +1,78 @@
+C:\Users\dungm\Study\Do-an-C#\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\dungm\Study\Do-an-C#\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\dungm\Study\Do-an-C#\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\dungm\Study\Do-an-C#\Tutorial\obj\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\dungm\Study\Do-an-C#\Tutorial\obj\Debug\Tutorial.tuto.resources
+C:\Users\dungm\Study\Do-an-C#\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+C:\Users\dungm\Study\Do-an-C#\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.Cache
+C:\Users\dungm\Study\Do-an-C#\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\dungm\Study\Do-an-C#\Tutorial\obj\Debug\Tutorial.pdb
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Tutorial-20200907T012413Z-001\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Tutorial-20200907T012413Z-001\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Tutorial-20200907T012413Z-001\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Tutorial-20200907T012413Z-001\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Tutorial-20200907T012413Z-001\Tutorial\obj\Debug\Tutorial.tuto.resources
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Tutorial-20200907T012413Z-001\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Tutorial-20200907T012413Z-001\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.cache
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Tutorial-20200907T012413Z-001\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Tutorial-20200907T012413Z-001\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Tutorial-20200907T012413Z-001\Tutorial\obj\Debug\Tutorial.pdb
+Z:\Desktop\Game final (An)\Game_Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+Z:\Desktop\Game final (An)\Game_Tutorial\Tutorial\bin\Debug\Tutorial.exe
+Z:\Desktop\Game final (An)\Game_Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+Z:\Desktop\Game final (An)\Game_Tutorial\Tutorial\obj\Debug\Tutorial.csprojResolveAssemblyReference.cache
+Z:\Desktop\Game final (An)\Game_Tutorial\Tutorial\obj\Debug\Tutorial.tuto.resources
+Z:\Desktop\Game final (An)\Game_Tutorial\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+Z:\Desktop\Game final (An)\Game_Tutorial\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.Cache
+Z:\Desktop\Game final (An)\Game_Tutorial\Tutorial\obj\Debug\Tutorial.exe
+Z:\Desktop\Game final (An)\Game_Tutorial\Tutorial\obj\Debug\Tutorial.pdb
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\Tutorial\bin\Debug\Tutorial.exe.config
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\Tutorial\bin\Debug\Tutorial.exe
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\Tutorial\bin\Debug\Tutorial.pdb
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.tuto.resources
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.cache
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.exe
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\Tutorial\bin\Debug\Tutorial.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\Tutorial\bin\Debug\Tutorial.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\Tutorial\bin\Debug\Tutorial.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.tuto.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\Tutorial\bin\Debug\Tutorial.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\Tutorial\bin\Debug\Tutorial.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\Tutorial\bin\Debug\Tutorial.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.tuto.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.tuto.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.cache
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\Tutorial\obj\Debug\Tutorial.pdb
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\Tutorial\obj\Debug\Tutorial.tuto.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.cache
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\Tutorial\obj\Debug\Tutorial.pdb

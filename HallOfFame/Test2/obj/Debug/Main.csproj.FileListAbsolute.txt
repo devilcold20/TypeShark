@@ -1,0 +1,447 @@
+Z:\Desktop\Test2\Test2\bin\Debug\Test2.exe.config
+Z:\Desktop\Test2\Test2\bin\Debug\Test2.exe
+Z:\Desktop\Test2\Test2\bin\Debug\Test2.pdb
+Z:\Desktop\Test2\Test2\bin\Debug\MySql.Data.dll
+Z:\Desktop\Test2\Test2\bin\Debug\Google.Protobuf.dll
+Z:\Desktop\Test2\Test2\bin\Debug\Zstandard.Net.dll
+Z:\Desktop\Test2\Test2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\Desktop\Test2\Test2\bin\Debug\BouncyCastle.Crypto.dll
+Z:\Desktop\Test2\Test2\bin\Debug\Ubiety.Dns.Core.dll
+Z:\Desktop\Test2\Test2\bin\Debug\Renci.SshNet.dll
+Z:\Desktop\Test2\Test2\bin\Debug\System.Buffers.dll
+Z:\Desktop\Test2\Test2\bin\Debug\K4os.Compression.LZ4.dll
+Z:\Desktop\Test2\Test2\bin\Debug\K4os.Hash.xxHash.dll
+Z:\Desktop\Test2\Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Desktop\Test2\Test2\bin\Debug\MySql.Data.xml
+Z:\Desktop\Test2\Test2\obj\Debug\Main.csprojResolveAssemblyReference.cache
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.Form1.resources
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.Form2.resources
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.Form3.resources
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+Z:\Desktop\Test2\Test2\obj\Debug\Main.csproj.GenerateResource.Cache
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.exe
+Z:\Desktop\Test2\Test2\obj\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\Test2.exe.config
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\Test2.exe
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\Google.Protobuf.dll
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\Zstandard.Net.dll
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\BouncyCastle.Crypto.dll
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\Ubiety.Dns.Core.dll
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\Renci.SshNet.dll
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\System.Buffers.dll
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\K4os.Compression.LZ4.dll
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\K4os.Hash.xxHash.dll
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Download\du lieu\LTGD\Test2\Test2\bin\Debug\MySql.Data.xml
+F:\Download\du lieu\LTGD\Test2\Test2\obj\Debug\Main.csprojAssemblyReference.cache
+F:\Download\du lieu\LTGD\Test2\Test2\obj\Debug\Test2.Form1.resources
+F:\Download\du lieu\LTGD\Test2\Test2\obj\Debug\Test2.Form2.resources
+F:\Download\du lieu\LTGD\Test2\Test2\obj\Debug\Test2.Form3.resources
+F:\Download\du lieu\LTGD\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+F:\Download\du lieu\LTGD\Test2\Test2\obj\Debug\Main.csproj.GenerateResource.cache
+F:\Download\du lieu\LTGD\Test2\Test2\obj\Debug\Main.csproj.CoreCompileInputs.cache
+F:\Download\du lieu\LTGD\Test2\Test2\obj\Debug\Main.csproj.CopyComplete
+F:\Download\du lieu\LTGD\Test2\Test2\obj\Debug\Test2.exe
+F:\Download\du lieu\LTGD\Test2\Test2\obj\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\Test2\Test2\obj\Debug\Test2.login.resources
+F:\Download\du lieu\LTGD\Test2\Test2\obj\Debug\Test2.FrmDangKi.resources
+F:\Download\du lieu\LTGD\Test2\Test2\obj\Debug\Test2.FrmLevel.resources
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\Test2.exe.config
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\Test2.exe
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\Test2.pdb
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\Google.Protobuf.dll
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\Zstandard.Net.dll
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\Renci.SshNet.dll
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\System.Buffers.dll
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\System.Memory.dll
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\bin\Debug\MySql.Data.xml
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Test2.exe.config
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Test2.Form1.resources
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Test2.Form2.resources
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Test2.Form3.resources
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Test2.FrmDangKi.resources
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Test2.FrmLevel.resources
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Test2.login.resources
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Main.csproj.CopyComplete
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Test2.exe
+C:\Users\AnNgocLocal1\Downloads\BTGDGK\Test2\Test2\Test2\obj\Debug\Test2.pdb
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\Test2.exe.config
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\obj\Debug\Test2.exe
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\obj\Debug\Test2.pdb
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\Test2.exe
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\Test2.pdb
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\MySql.Data.dll
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\Google.Protobuf.dll
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\Zstandard.Net.dll
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\BouncyCastle.Crypto.dll
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\Ubiety.Dns.Core.dll
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\Renci.SshNet.dll
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\System.Buffers.dll
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\K4os.Compression.LZ4.dll
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\K4os.Hash.xxHash.dll
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\System.Memory.dll
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\MySql.Data.xml
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\obj\Debug\Main.csprojResolveAssemblyReference.cache
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\obj\Debug\Main.csproj.Test2.exe.config
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\obj\Debug\Test2.Form1.resources
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\obj\Debug\Test2.Form2.resources
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\obj\Debug\Test2.Form3.resources
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\obj\Debug\Test2.FrmDangKi.resources
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\obj\Debug\Test2.FrmLevel.resources
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\obj\Debug\Test2.login.resources
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\obj\Debug\Main.csproj.GenerateResource.Cache
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\Tutorial.exe
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\Tutorial.pdb
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\game.exe
+Z:\Desktop\Game final (An)\Game_Begin\Test2\Test2\bin\Debug\game.pdb
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\Test2.exe.config
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\obj\Debug\Test2.exe
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\obj\Debug\Test2.pdb
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\Test2.exe
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\Test2.pdb
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\game.exe
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\MySql.Data.dll
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\Tutorial.exe
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\Google.Protobuf.dll
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\Zstandard.Net.dll
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\BouncyCastle.Crypto.dll
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\Ubiety.Dns.Core.dll
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\Renci.SshNet.dll
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\System.Buffers.dll
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.dll
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\K4os.Hash.xxHash.dll
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\System.Memory.dll
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\game.pdb
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\Tutorial.pdb
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\bin\Debug\MySql.Data.xml
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\obj\Debug\Main.csprojResolveAssemblyReference.cache
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\obj\Debug\Main.csproj.Test2.exe.config
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\obj\Debug\Test2.Form1.resources
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\obj\Debug\Test2.Form2.resources
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\obj\Debug\Test2.Form3.resources
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\obj\Debug\Test2.FrmDangKi.resources
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\obj\Debug\Test2.FrmLevel.resources
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\obj\Debug\Test2.login.resources
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\obj\Debug\Test2.Properties.Resources.resources
+Z:\Desktop\New folder (2)\Game_Begin\HallOfFame\Test2\obj\Debug\Main.csproj.GenerateResource.Cache
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csprojAssemblyReference.cache
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.exe.config
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Form1.resources
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Form2.resources
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Form3.resources
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.FrmDangKi.resources
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.FrmLevel.resources
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.login.resources
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Properties.Resources.resources
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.GenerateResource.cache
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CoreCompileInputs.cache
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.exe
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe.config
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Google.Protobuf.dll
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Zstandard.Net.dll
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\BouncyCastle.Crypto.dll
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Ubiety.Dns.Core.dll
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Renci.SshNet.dll
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Buffers.dll
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.dll
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Hash.xxHash.dll
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Memory.dll
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.pdb
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe.config
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.pdb
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe.config
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\MySql.Data.xml
+F:\Download\du lieu\LTGD\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CopyComplete
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Google.Protobuf.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Zstandard.Net.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\BouncyCastle.Crypto.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Ubiety.Dns.Core.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Renci.SshNet.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Buffers.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Hash.xxHash.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Memory.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\MySql.Data.xml
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csprojAssemblyReference.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Form1.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Form2.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Form3.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.FrmDangKi.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.FrmLevel.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.login.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Properties.Resources.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.GenerateResource.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CoreCompileInputs.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CopyComplete
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-8h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Google.Protobuf.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Zstandard.Net.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\BouncyCastle.Crypto.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Ubiety.Dns.Core.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Renci.SshNet.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Buffers.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Hash.xxHash.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Memory.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\MySql.Data.xml
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csprojAssemblyReference.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Form2.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Form3.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.FrmLevel.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.login.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Properties.Resources.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.GenerateResource.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CoreCompileInputs.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CopyComplete
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_12-09-19h17\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Google.Protobuf.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Zstandard.Net.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\BouncyCastle.Crypto.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Ubiety.Dns.Core.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Renci.SshNet.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Buffers.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Hash.xxHash.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Memory.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\MySql.Data.xml
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csprojAssemblyReference.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Form2.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Form3.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.FrmLevel.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.login.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Properties.Resources.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.GenerateResource.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CoreCompileInputs.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CopyComplete
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe.config
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csprojAssemblyReference.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Properties.Resources.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.GenerateResource.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CoreCompileInputs.cache
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CopyComplete
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.exe
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.pdb
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.g.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.Form2.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.Form3.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.FrmLevel.resources
+F:\Download\du lieu\LTGD\BTL\TyperShark_13_09_4h00\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.login.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe.config
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.pdb
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.pdb
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe.config
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.pdb
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe.config
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.g.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.Form2.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.Form3.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.FrmLevel.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.login.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CopyComplete
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_9h\TyperShark_13_09_9h\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.pdb
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe.config
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.pdb
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.pdb
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe.config
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.pdb
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe.config
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.g.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.Form2.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.Form3.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.FrmLevel.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.login.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CopyComplete
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.pdb
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe.config
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Test2.pdb
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.pdb
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\game.exe.config
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.pdb
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Tutorial.exe.config
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.g.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.Form2.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.Form3.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.FrmLevel.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.login.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Main.csproj.CopyComplete
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.exe
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.pdb
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\MySql.Data.dll
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Google.Protobuf.dll
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Zstandard.Net.dll
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\Renci.SshNet.dll
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Buffers.dll
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Memory.dll
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\bin\Debug\MySql.Data.xml
+C:\Users\AnNgocLocal1\Downloads\Compressed\TyperShark_13_09_12h20\TyperShark_13_09_10h30\TyperShark_13_09_9h\TyperShark_13_09_10h30\TyperShark_12-09-3h17\HallOfFame\Test2\obj\Debug\Test2.exe.config
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\obj\Debug\Test2.exe.config
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\obj\Debug\Test2.g.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\obj\Debug\Main.Form2.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\obj\Debug\Main.Form3.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\obj\Debug\Main.FrmLevel.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\obj\Debug\Main.login.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\obj\Debug\Test2.exe
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\obj\Debug\Test2.pdb
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\Test2.exe.config
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\Test2.exe
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\Test2.pdb
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\game.exe
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\MySql.Data.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\Tutorial.exe
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\Google.Protobuf.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\Zstandard.Net.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\Renci.SshNet.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\System.Buffers.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\System.Memory.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\game.pdb
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\game.exe.config
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\Tutorial.pdb
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\Tutorial.exe.config
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\bin\Debug\MySql.Data.xml
+C:\Users\AnNgocLocal1\Desktop\New folder\HallOfFame\Test2\obj\Debug\Main.csproj.CopyComplete
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\Test2.exe.config
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\Test2.exe
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\Test2.pdb
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\game.exe
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\MySql.Data.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\Tutorial.exe
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\Google.Protobuf.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\Zstandard.Net.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\Renci.SshNet.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\System.Buffers.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\System.Memory.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\game.pdb
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\game.exe.config
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\Tutorial.pdb
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\Tutorial.exe.config
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\bin\Debug\MySql.Data.xml
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\obj\Debug\Test2.exe.config
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\obj\Debug\Test2.g.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\obj\Debug\Main.Form2.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\obj\Debug\Main.Form3.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\obj\Debug\Main.FrmLevel.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\obj\Debug\Main.login.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\obj\Debug\Main.csproj.CopyComplete
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\obj\Debug\Test2.exe
+C:\Users\AnNgocLocal1\Desktop\New folder\New folder\HallOfFame\Test2\obj\Debug\Test2.pdb
