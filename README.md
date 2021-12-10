@@ -8,5 +8,4 @@
 <space>Mạnh Thế Dũng<space>
 <space>Trương Hào Quý<space>
 <space>Đinh Ngọc An<space>
-<space>Nguyễn Nguyệt Phương Bảo<space>
-
+  Nguyễn Nguyệt Phương Bảo
